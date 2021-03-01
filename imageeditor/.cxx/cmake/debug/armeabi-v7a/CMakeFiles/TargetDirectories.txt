@@ -1,0 +1,9 @@
+/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/install/local.dir
+/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/list_install_components.dir
+/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/package_source.dir
+/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/package.dir
+/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/install/strip.dir
+/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/install.dir
+/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/freetype.dir

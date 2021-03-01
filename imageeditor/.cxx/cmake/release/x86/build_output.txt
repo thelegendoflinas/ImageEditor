@@ -1,0 +1,18 @@
+Check for working C compiler: /Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang
+Check for working C compiler: /Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works
+Detecting C compiler ABI info
+Detecting C compiler ABI info - done
+Detecting C compile features
+Detecting C compile features - done
+Found PkgConfig: /usr/local/bin/pkg-config (found version "0.29.2") 
+Could NOT find harfbuzz (missing: HARFBUZZ_INCLUDE_DIRS HARFBUZZ_LIBRARIES) 
+Found ZLIB: /Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libz.a (found version "1.2.7") 
+Could NOT find PNG (missing: PNG_LIBRARY PNG_PNG_INCLUDE_DIR) 
+Could NOT find BZip2 (missing: BZIP2_LIBRARIES BZIP2_INCLUDE_DIR) 
+Looking for unistd.h
+Looking for unistd.h - found
+Looking for fcntl.h
+Looking for fcntl.h - found
+Looking for stdint.h
+Looking for stdint.h - found
+Configuring done

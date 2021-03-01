@@ -1,0 +1,247 @@
+[
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/autofit/autofit.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/autofit/autofit.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/autofit/autofit.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftbase.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftbase.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftbase.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftbbox.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftbbox.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftbbox.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftbdf.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftbdf.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftbdf.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftbitmap.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftbitmap.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftbitmap.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftcid.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftcid.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftcid.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftfstype.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftfstype.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftfstype.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftgasp.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftgasp.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftgasp.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftglyph.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftglyph.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftglyph.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftgxval.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftgxval.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftgxval.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftinit.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftinit.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftinit.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftmm.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftmm.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftmm.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftotval.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftotval.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftotval.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftpatent.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftpatent.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftpatent.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftpfr.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftpfr.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftpfr.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftstroke.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftstroke.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftstroke.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftsynth.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftsynth.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftsynth.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftsystem.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftsystem.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftsystem.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/fttype1.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/fttype1.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/fttype1.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftwinfnt.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftwinfnt.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftwinfnt.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/bdf/bdf.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/bdf/bdf.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/bdf/bdf.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/bzip2/ftbzip2.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/bzip2/ftbzip2.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/cache/ftcache.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/cache/ftcache.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/cache/ftcache.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/cff/cff.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/cff/cff.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/cff/cff.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/cid/type1cid.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/cid/type1cid.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/cid/type1cid.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/gzip/ftgzip.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/gzip/ftgzip.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/gzip/ftgzip.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/lzw/ftlzw.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/lzw/ftlzw.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/lzw/ftlzw.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/pcf/pcf.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/pcf/pcf.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/pcf/pcf.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/pfr/pfr.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/pfr/pfr.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/pfr/pfr.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/psaux/psaux.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/psaux/psaux.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/psaux/psaux.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/pshinter/pshinter.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/pshinter/pshinter.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/pshinter/pshinter.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/psnames/psnames.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/psnames/psnames.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/psnames/psnames.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/raster/raster.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/raster/raster.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/raster/raster.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/sfnt/sfnt.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/sfnt/sfnt.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/sfnt/sfnt.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/smooth/smooth.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/smooth/smooth.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/smooth/smooth.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/truetype/truetype.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/truetype/truetype.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/truetype/truetype.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/type1/type1.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/type1/type1.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/type1/type1.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/type42/type42.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/type42/type42.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/type42/type42.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/winfonts/winfnt.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/winfonts/winfnt.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/winfonts/winfnt.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/api.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/api.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/api.c"
+},
+
+{
+  "directory": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/debug/x86",
+  "command": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -fvisibility=hidden   -o CMakeFiles/freetype.dir/src/base/ftdebug.c.o   -c /Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftdebug.c",
+  "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftdebug.c"
+}
+]

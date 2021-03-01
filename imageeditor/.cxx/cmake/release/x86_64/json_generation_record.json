@@ -1,0 +1,458 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 18 min SDK version: x86_64",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027/Users/aa850845/Library/Android/sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.18.1\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86_64/android_gradle_build.json due to:",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86_64\u0027",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86_64\u0027",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/aa850845/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype\n-DCMAKE_FIND_ROOT_PATH\u003d/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/prefab/x86_64/prefab\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003dx86_64\n-DANDROID_NDK\u003d/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462\n-DANDROID_PLATFORM\u003dandroid-18\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DCMAKE_ANDROID_NDK\u003d/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/aa850845/Playground/ImageEditor/imageeditor/build/intermediates/cmake/release/obj/x86_64\n-DCMAKE_MAKE_PROGRAM\u003d/Users/aa850845/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d18\n-B/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86_64\n-GNinja\njvmArgs : \n\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype\",\n  \"buildDirectory\": \"/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86_64\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003d/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/prefab/x86_64/prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86_64\",\n    \"-DANDROID_NDK\\u003d/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462\",\n    \"-DANDROID_PLATFORM\\u003dandroid-18\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86_64\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/Users/aa850845/Playground/ImageEditor/imageeditor/build/intermediates/cmake/release/obj/x86_64\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/Users/aa850845/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d18\"\n  ]\n}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: /Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: /Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found PkgConfig: /usr/local/bin/pkg-config (found version \\\"0.29.2\\\") \",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Found PkgConfig: /usr/local/bin/pkg-config (found version \"0.29.2\") ",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Could NOT find harfbuzz (missing: HARFBUZZ_INCLUDE_DIRS HARFBUZZ_LIBRARIES) \",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Could NOT find harfbuzz (missing: HARFBUZZ_INCLUDE_DIRS HARFBUZZ_LIBRARIES) ",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found ZLIB: /Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libz.a (found version \\\"1.2.7\\\") \",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Found ZLIB: /Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libz.a (found version \"1.2.7\") ",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Could NOT find PNG (missing: PNG_LIBRARY PNG_PNG_INCLUDE_DIR) \",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Could NOT find PNG (missing: PNG_LIBRARY PNG_PNG_INCLUDE_DIR) ",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Could NOT find BZip2 (missing: BZIP2_LIBRARIES BZIP2_INCLUDE_DIR) \",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Could NOT find BZip2 (missing: BZIP2_LIBRARIES BZIP2_INCLUDE_DIR) ",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for unistd.h\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for unistd.h",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for unistd.h - found\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for unistd.h - found",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for fcntl.h\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for fcntl.h",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for fcntl.h - found\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for fcntl.h - found",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for stdint.h\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for stdint.h",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for stdint.h - found\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for stdint.h - found",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPkgConfig.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPNG.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindZLIB.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/SelectLibraryConfigurations.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/SelectLibraryConfigurations.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindZLIB.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindBZip2.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/SelectLibraryConfigurations.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.c.in\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.c.in\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.c.in\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/GNUInstallDirs.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CPack.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CPackComponent.cmake\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Templates/CPackConfig.cmake.in\",\"../../../../../Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Templates/CPackConfig.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"../../../../../Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake\",\"../../../../../Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake\",\"../../../../../Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake\",\"builds/cmake/FindHarfBuzz.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../.cxx/cmake/release/x86_64/CMakeFiles/feature_tests.c\",\"../../.cxx/cmake/release/x86_64/CMakeFiles/feature_tests.c\",\"../../.cxx/cmake/release/x86_64/CMakeFiles/feature_tests.c\",\"../../.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeCCompiler.cmake\"]}],\"cmakeRootDirectory\":\"/Users/aa850845/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype\",\"type\":\"reply\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86_64\",\"name\":\"freetype\",\"sourceDirectory\":\"/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype\",\"targets\":[{\"artifacts\":[\"/Users/aa850845/Playground/ImageEditor/imageeditor/build/intermediates/cmake/release/obj/x86_64/libfreetype.so\"],\"buildDirectory\":\"/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86_64\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O2 -DNDEBUG  -fPIC -fvisibility\u003dhidden  \",\"defines\":[\"FT2_BUILD_LIBRARY\",\"freetype_EXPORTS\"],\"includePath\":[{\"path\":\"/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86_64/include\"},{\"path\":\"/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"src/autofit/autofit.c\",\"src/base/ftbase.c\",\"src/base/ftbbox.c\",\"src/base/ftbdf.c\",\"src/base/ftbitmap.c\",\"src/base/ftcid.c\",\"src/base/ftfstype.c\",\"src/base/ftgasp.c\",\"src/base/ftglyph.c\",\"src/base/ftgxval.c\",\"src/base/ftinit.c\",\"src/base/ftmm.c\",\"src/base/ftotval.c\",\"src/base/ftpatent.c\",\"src/base/ftpfr.c\",\"src/base/ftstroke.c\",\"src/base/ftsynth.c\",\"src/base/ftsystem.c\",\"src/base/fttype1.c\",\"src/base/ftwinfnt.c\",\"src/bdf/bdf.c\",\"src/bzip2/ftbzip2.c\",\"src/cache/ftcache.c\",\"src/cff/cff.c\",\"src/cid/type1cid.c\",\"src/gzip/ftgzip.c\",\"src/lzw/ftlzw.c\",\"src/pcf/pcf.c\",\"src/pfr/pfr.c\",\"src/psaux/psaux.c\",\"src/pshinter/pshinter.c\",\"src/psnames/psnames.c\",\"src/raster/raster.c\",\"src/sfnt/sfnt.c\",\"src/smooth/smooth.c\",\"src/truetype/truetype.c\",\"src/type1/type1.c\",\"src/type42/type42.c\",\"src/winfonts/winfnt.c\",\"src/api.c\",\"src/base/ftdebug.c\"]},{\"isGenerated\":false,\"sources\":[\"include/ft2build.h\",\"include/freetype/freetype.h\",\"include/freetype/ftadvanc.h\",\"include/freetype/ftbbox.h\",\"include/freetype/ftbdf.h\",\"include/freetype/ftbitmap.h\",\"include/freetype/ftbzip2.h\",\"include/freetype/ftcache.h\",\"include/freetype/ftchapters.h\",\"include/freetype/ftcid.h\",\"include/freetype/ftdriver.h\",\"include/freetype/fterrdef.h\",\"include/freetype/fterrors.h\",\"include/freetype/ftfntfmt.h\",\"include/freetype/ftgasp.h\",\"include/freetype/ftglyph.h\",\"include/freetype/ftgxval.h\",\"include/freetype/ftgzip.h\",\"include/freetype/ftimage.h\",\"include/freetype/ftincrem.h\",\"include/freetype/ftlcdfil.h\",\"include/freetype/ftlist.h\",\"include/freetype/ftlzw.h\",\"include/freetype/ftmac.h\",\"include/freetype/ftmm.h\",\"include/freetype/ftmodapi.h\",\"include/freetype/ftmoderr.h\",\"include/freetype/ftotval.h\",\"include/freetype/ftoutln.h\",\"include/freetype/ftparams.h\",\"include/freetype/ftpfr.h\",\"include/freetype/ftrender.h\",\"include/freetype/ftsizes.h\",\"include/freetype/ftsnames.h\",\"include/freetype/ftstroke.h\",\"include/freetype/ftsynth.h\",\"include/freetype/ftsystem.h\",\"include/freetype/fttrigon.h\",\"include/freetype/fttypes.h\",\"include/freetype/ftwinfnt.h\",\"include/freetype/t1tables.h\",\"include/freetype/ttnameid.h\",\"include/freetype/tttables.h\",\"include/freetype/tttags.h\",\"include/freetype/config/ftconfig.h\",\"include/freetype/config/ftheader.h\",\"include/freetype/config/ftmodule.h\",\"include/freetype/config/ftoption.h\",\"include/freetype/config/ftstdlib.h\",\"include/freetype/internal/autohint.h\",\"include/freetype/internal/cffotypes.h\",\"include/freetype/internal/cfftypes.h\",\"include/freetype/internal/ftcalc.h\",\"include/freetype/internal/ftdebug.h\",\"include/freetype/internal/ftdrv.h\",\"include/freetype/internal/ftgloadr.h\",\"include/freetype/internal/fthash.h\",\"include/freetype/internal/ftmemory.h\",\"include/freetype/internal/ftobjs.h\",\"include/freetype/internal/ftpic.h\",\"include/freetype/internal/ftpsprop.h\",\"include/freetype/internal/ftrfork.h\",\"include/freetype/internal/ftserv.h\",\"include/freetype/internal/ftstream.h\",\"include/freetype/internal/fttrace.h\",\"include/freetype/internal/ftvalid.h\",\"include/freetype/internal/internal.h\",\"include/freetype/internal/psaux.h\",\"include/freetype/internal/pshints.h\",\"include/freetype/internal/sfnt.h\",\"include/freetype/internal/t1types.h\",\"include/freetype/internal/tttypes.h\"]}],\"fullName\":\"libfreetype.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-Wl,-Bstatic -lz -Wl,-Bdynamic -llog -lGLESv2 -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"freetype\",\"sourceDirectory\":\"/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype\",\"sysroot\":\"/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output /Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86_64/build_output.txt",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file /Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86_64/build_command.txt",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "tag": "release|x86_64"
+  }
+]

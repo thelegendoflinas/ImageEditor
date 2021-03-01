@@ -1,0 +1,533 @@
+{
+  "stringTable": {
+    "0": "/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86",
+    "1": "--target=i686-none-linux-android18 --gcc-toolchain=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DFT2_BUILD_LIBRARY -Dfreetype_EXPORTS -Iinclude -I/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC -fvisibility=hidden"
+  },
+  "buildFiles": [
+    "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/builds/cmake/FindHarfBuzz.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/aa850845/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/aa850845/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "freetype-Release-x86": {
+      "buildCommand": "/Users/aa850845/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86\" freetype",
+      "buildType": "release",
+      "toolchain": "1495538581",
+      "abi": "x86",
+      "artifactName": "freetype",
+      "files": [
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/autofit/autofit.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftbase.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftbbox.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftbdf.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftbitmap.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftcid.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftfstype.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftgasp.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftglyph.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftgxval.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftinit.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftmm.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftotval.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftpatent.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftpfr.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftstroke.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftsynth.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftsystem.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/fttype1.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftwinfnt.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/bdf/bdf.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/bzip2/ftbzip2.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/cache/ftcache.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/cff/cff.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/cid/type1cid.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/gzip/ftgzip.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/lzw/ftlzw.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/pcf/pcf.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/pfr/pfr.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/psaux/psaux.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/pshinter/pshinter.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/psnames/psnames.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/raster/raster.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/sfnt/sfnt.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/smooth/smooth.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/truetype/truetype.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/type1/type1.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/type42/type42.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/winfonts/winfnt.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/api.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/src/base/ftdebug.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/ft2build.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/freetype.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftadvanc.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftbbox.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftbdf.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftbitmap.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftbzip2.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftcache.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftchapters.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftcid.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftdriver.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/fterrdef.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/fterrors.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftfntfmt.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftgasp.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftglyph.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftgxval.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftgzip.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftimage.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftincrem.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftlcdfil.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftlist.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftlzw.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftmac.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftmm.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftmodapi.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftmoderr.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftotval.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftoutln.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftparams.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftpfr.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftrender.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftsizes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftsnames.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftstroke.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftsynth.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftsystem.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/fttrigon.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/fttypes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ftwinfnt.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/t1tables.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/ttnameid.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/tttables.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/tttags.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/config/ftconfig.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/config/ftheader.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/config/ftmodule.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/config/ftoption.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/config/ftstdlib.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/autohint.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/cffotypes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/cfftypes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/ftcalc.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/ftdebug.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/ftdrv.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/ftgloadr.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/fthash.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/ftmemory.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/ftobjs.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/ftpic.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/ftpsprop.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/ftrfork.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/ftserv.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/ftstream.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/fttrace.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/ftvalid.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/internal.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/psaux.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/pshints.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/sfnt.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/t1types.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/include/freetype/internal/tttypes.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/aa850845/Playground/ImageEditor/imageeditor/build/intermediates/cmake/release/obj/x86/libfreetype.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1495538581": {
+      "cCompilerExecutable": "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

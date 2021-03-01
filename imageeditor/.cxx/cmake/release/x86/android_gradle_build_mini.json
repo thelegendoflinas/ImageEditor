@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/CMakeLists.txt",
+    "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/aa850845/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/Users/aa850845/Playground/ImageEditor/imageeditor/jni/freetype/builds/cmake/FindHarfBuzz.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/aa850845/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/aa850845/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "freetype-Release-x86": {
+      "artifactName": "freetype",
+      "buildCommand": "/Users/aa850845/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/aa850845/Playground/ImageEditor/imageeditor/.cxx/cmake/release/x86\" freetype",
+      "abi": "x86",
+      "output": "/Users/aa850845/Playground/ImageEditor/imageeditor/build/intermediates/cmake/release/obj/x86/libfreetype.so",
+      "runtimeFiles": []
+    }
+  }
+}
